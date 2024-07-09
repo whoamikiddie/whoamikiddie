@@ -7,11 +7,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Cybersecuirty <br>- ⚡ In my free time I play games 🎮</p>
+<p align="left"><br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Cybersecuirty <br>- ⚡ In my free time I play games 🎮</p>
 
 ###
 

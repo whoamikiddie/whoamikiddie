@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left"><br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Cybersecuirty <br>- ⚡ In my free time I play games 🎮</p>
+<p align="left"><br><br>- 📚 I'm currently learning Cybersecuirty <br>- ⚡ In my free time I play games 🎮</p>
 
 ###
 

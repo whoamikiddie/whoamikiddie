@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm whoamikiddie, a script kiddie. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
+I'm whoamikiddie, I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
 I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
 
 

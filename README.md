@@ -18,21 +18,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
-**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
+I'm Gowtham, a script kiddie. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
+I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
 
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: coffin
-- **From**: Russia
-- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy agent.
--**Reverse Engineering**, **Malware Analysis**
+- **Name**: Gowtham
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at **coffinxp7@proton.me**
+- Reach me out at ****
 
 </details>
 <br>
@@ -44,15 +40,11 @@ I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Resear
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Still Learning Bug hunting & malware forensics.
+👉 Still Learning Bug hunting 
 
-👉 Managing Tech Communities & Content creator.
+👉 Writing Some Useful Tools For Myself
 
-👉 Writing Some Useful Tools For Myself & Communities
-
-👉 Building & Contributing To Open Source Projects
-
-👉 Currently Learning mobile pentesting & web3 
+👉 Currently Learning  pentesting & web3 
 
 `Updating:`  Journey to Cybersecurity Specialist.
 
@@ -61,34 +53,25 @@ I'm **[Lostsec](https://www.youtube.com/@lostsecc)**, a hacker & Security Resear
 
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinsp&theme=vision-friendly-dark)](https://github.com/coffinsp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinsp&theme=dark&card_width=450)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinsp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinsp&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
+  
+
+ 
 
 <br><br>
 
 
 
-<h2 id="donate" align=''>Donate ⚡️ Support</h2>
 
-<details>
-<summary>Buy Me A Coffee</summary>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
 
-<p align="center"><a href="https://buymeacoffee.com/coffinxp"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
-</details>
 
 
 
 
 <p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
+  <b><i>"Never give up. Never back down.🌱"</i></b>
 </p>
 
-<p align="center">
-<a>🌱</a>
-</p>

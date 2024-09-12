@@ -52,7 +52,7 @@ I hope I will become a Cybersecurity Specialists then I can protect company asse
 
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+
 
  
   

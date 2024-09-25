@@ -44,7 +44,8 @@ I hope I will become a Cybersecurity Specialists then I can protect company asse
 
 👉 Writing Some Useful Tools For Myself
 
-👉 Currently Learning  pentesting & web3 
+👉 Currently Learning  pentesting  & web application
+
 
 `Updating:`  Journey to Cybersecurity Specialist.
 

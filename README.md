@@ -35,8 +35,8 @@ I hope I will become a Cybersecurity Specialists then I can protect company asse
 
 
 ---
-[![Whoamikiddie's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=whomaikiddie&theme=algolia&show_icons=true)](https://github.com/whoamikiddie)
----
+
+
 
 <h2 id="present_status"> Present Status </h3>
 

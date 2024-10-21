@@ -43,13 +43,10 @@ I hope to become a Cybersecurity Specialist so I can protect company assets and 
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="display: inline-block; border: 2px solid #e1e1e1; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
-    <img src="https://github-readme-stats.vercel.app/api?username=whoamikiddie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  </div>
+
   <div style="margin-left: -40px; display: inline-block; border: 2px solid #e1e1e1; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
     <h3>Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoamikiddie&hide=javascript,css,scss,html,hack,less&theme=tokyonight&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoamikiddie&hide=javascript,css,scss,html,hack,less,php&theme=tokyonight&layout=compact" />
   </div>
 </div>
 

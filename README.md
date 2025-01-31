@@ -23,7 +23,7 @@ I hope to become a Cybersecurity Specialist so I can protect company assets and 
 
 - **Name**: Whoamikiddie
 - Improving knowledge in **Website Vulnerabilities**
-- I’m currently learning **everything** 
+- I’m currently learning **Penetration testing && Tools development** 
 - Reach me at **whoamikiddie2812@proton.me**
 
 </details>

@@ -46,7 +46,7 @@ I hope to become a Cybersecurity Specialist so I can protect company assets and 
 
   <div style="margin-left: -40px; display: inline-block; border: 2px solid #e1e1e1; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
     <h3>Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoamikiddie&hide=javascript,css,scss,html,hack,less,php&theme=tokyonight&layout=compact" />  </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoamikiddie&hide=javascript,c,css,scss,html,hack,less,php&theme=tokyonight&layout=compact" />  </div>
 </div>
 
 <br><br>

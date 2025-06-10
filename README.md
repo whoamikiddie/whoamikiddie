@@ -4,7 +4,6 @@
 
 
 
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
 <h2 align="left">
   Hi there
@@ -28,8 +27,6 @@ I hope to become a Cybersecurity Specialist so I can protect company assets and 
 ---
 
 <h2 id="present_status">Present Status</h2>
-
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
 👉 Still learning Bug Hunting  
 👉 Writing some useful tools for myself  
